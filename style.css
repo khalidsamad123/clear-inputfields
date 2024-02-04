@@ -1,0 +1,21 @@
+#body{
+    background-image: url(./Futuristic-Red-Blue-Background-Design-Graphics-30683310-1-1-580x371.jpg);
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+    width:100%;
+    height: 550px;
+}
+
+#form-valid{
+    width: 20%;
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    background-color: goldenrod;
+    padding: 20px;
+    border-radius: 10px;
+}
+.form-label{
+    color: white;
+}
